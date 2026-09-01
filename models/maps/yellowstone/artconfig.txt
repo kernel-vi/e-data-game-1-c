@@ -1,0 +1,17 @@
+AddSimpleModel(-1, 9319, -8001, "maps/yellowstone/cottage_pub.dff", "maps/yellowstone/cottage.txd");
+AddSimpleModel(-1, 13205, -8002, "maps/yellowstone/ranch_fence1.dff", "maps/yellowstone/ranch_props.txd");
+AddSimpleModel(-1, 9319, -8003, "maps/yellowstone/ranch_barn.dff", "maps/yellowstone/ranch_barn.txd");
+AddSimpleModel(-1, 9319, -8004, "maps/yellowstone/ranch_props1.dff", "maps/yellowstone/ranch_props.txd");
+AddSimpleModel(-1, 9319, -8005, "maps/yellowstone/cottage_houses.dff", "maps/yellowstone/cottage.txd");
+AddSimpleModel(-1, 647, -8006, "maps/yellowstone/ranch_props2.dff", "maps/yellowstone/ranch_props.txd");
+AddSimpleModel(-1, 9319, -8007, "maps/yellowstone/ranch_ground01.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8008, "maps/yellowstone/ranch_ground02.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8009, "maps/yellowstone/ranch_ground03.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8010, "maps/yellowstone/ranch_ground04.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8011, "maps/yellowstone/ranch_ground05.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8012, "maps/yellowstone/ranch_ground06.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8013, "maps/yellowstone/ranch_ground07.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8014, "maps/yellowstone/ranch_ground08.dff", "maps/yellowstone/ranch_ground.txd");
+AddSimpleModel(-1, 9319, -8015, "maps/yellowstone/ranch_fence2.dff", "maps/yellowstone/ranch_props.txd");
+AddSimpleModel(-1, 9319, -8017, "maps/yellowstone/ranch_horses.dff", "maps/yellowstone/ranch_props.txd");
+AddSimpleModel(-1, 9319, -8018, "maps/yellowstone/ranch_cows.dff", "maps/yellowstone/ranch_props.txd");

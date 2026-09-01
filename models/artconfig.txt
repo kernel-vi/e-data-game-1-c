@@ -1,0 +1,420 @@
+// TextDraws
+AddSimpleModel(-1, 19379, -9000, "textdraws/model.dff", "textdraws/speedo_meter.txd");
+AddSimpleModel(-1, 19379, -9001, "textdraws/model.dff", "textdraws/fuel_panel.txd");
+AddSimpleModel(-1, 19379, -9002, "textdraws/model.dff", "textdraws/vehicle_state.txd");
+AddSimpleModel(-1, 19379, -9003, "textdraws/model.dff", "textdraws/inventory.txd");
+AddSimpleModel(-1, 19379, -9004, "textdraws/model.dff", "textdraws/idcard.txd");
+AddSimpleModel(-1, 19379, -9005, "textdraws/model.dff", "textdraws/fishing.txd");
+
+// Objects
+AddSimpleModel(-1, 19162, -1050, "objects/lssd/hat.dff", "objects/lssd/hat.txd");
+AddSimpleModel(-1, 19142, -1051, "objects/lssd/vest.dff", "objects/lssd/vest.txd");
+
+// Trucker
+AddSimpleModel(-1, 19475, -1500, "objects/trucker/trailer_v1.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1501, "objects/trucker/trailer_v2.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1502, "objects/trucker/trailer_v3.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1503, "objects/trucker/box_trailer.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1504, "objects/trucker/container_trailer.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1505, "objects/trucker/gas_trailer.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1506, "objects/trucker/log_trailer.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1507, "objects/trucker/sand_trailer.dff", "objects/trucker/trailer.txd");
+AddSimpleModel(-1, 19475, -1508, "objects/trucker/trash_trailer.dff", "objects/trucker/trailer.txd");
+
+// Vehicle Blanket
+AddSimpleModel(-1, 1923, -1532, "objects/blanket/motorbike.dff", "objects/blanket/vehicle.txd");
+
+//ANGEL PINE ALTA
+AddSimpleModel(-1, 12853, -2000, "maps/angel_pine/houses_angelpine.dff", "maps/angel_pine/houses.txd");
+AddSimpleModel(-1, 12853, -2002, "maps/angel_pine/cuntsrod11.dff", "maps/angel_pine/terrain.txd");
+AddSimpleModel(-1, 12853, -2003, "maps/angel_pine/cs_landbit_49.dff", "maps/angel_pine/terrain.txd");
+AddSimpleModel(-1, 790, -2004, "maps/angel_pine/w_townwires_10.dff", "maps/angel_pine/props.txd");
+AddSimpleModel(-1, 5638, -2005, "maps/angel_pine/props_angelpine.dff", "maps/angel_pine/props.txd");
+
+AddSimpleModel(-1, 5638, -3009, "maps/angel_pine/new_houses_ap.dff", "maps/angel_pine/new_houses_ap.txd");
+
+// Fire Hose
+AddSimpleModel(-1, 1923, -25240, "objects/firehose/hoseline_l.dff", "objects/firehose/hoseline_l.txd");
+AddSimpleModel(-1, 1923, -25241, "objects/firehose/hoseline_r.dff", "objects/firehose/hoseline_r.txd");
+AddSimpleModel(-1, 1923, -25242, "objects/firehose/hoseseg.dff", "objects/firehose/hoseseg.txd");
+AddSimpleModel(-1, 1923, -25243, "objects/firehose/hosenozzle.dff", "objects/firehose/hosenozzle.txd");
+AddSimpleModel(-1, 1923, -25244, "objects/firehose/hosenozzle_big.dff", "objects/firehose/hosenozzle_big.txd");
+
+// SHERIFF ENEX & CITY HALL
+AddSimpleModel(-1, 19854, -2009, "maps/angel_pine/sheriff_hq.dff", "maps/angel_pine/sheriff_hq.txd");
+AddSimpleModel(-1, 18208, -2010, "maps/angel_pine/w_townwires_05.dff", "maps/angel_pine/sheriff_hq.txd");
+AddSimpleModel(-1, 18210, -2011, "maps/angel_pine/w_townwires_07.dff", "maps/angel_pine/sheriff_hq.txd");
+AddSimpleModel(-1, 18208, -2012, "maps/angel_pine/w_townwires_06.dff", "maps/angel_pine/sheriff_hq.txd");
+
+AddSimpleModel(-1, 18266, -2013, "maps/angel_pine/city_hall.dff", "maps/angel_pine/city_hall.txd");
+
+// SHERIFF INTERIOR
+AddSimpleModel(-1, 18266, -2014, "maps/ap_sheriff_int/basement.dff", "maps/ap_sheriff_int/interior_sheriff.txd");
+AddSimpleModel(-1, 14777, -2016, "maps/ap_sheriff_int/main_floor.dff", "maps/ap_sheriff_int/interior_sheriff.txd");
+AddSimpleModel(-1, 18266, -2017, "maps/ap_sheriff_int/top_floor.dff", "maps/ap_sheriff_int/interior_sheriff.txd");
+AddSimpleModel(-1, 1964, -2018, "maps/ap_sheriff_int/basement_furniture.dff", "maps/ap_sheriff_int/props_sheriff.txd");
+AddSimpleModel(-1, 1964, -2019, "maps/ap_sheriff_int/furniture.dff", "maps/ap_sheriff_int/props_sheriff.txd");
+AddSimpleModel(-1, 1964, -2020, "maps/ap_sheriff_int/furniture_topfloor.dff", "maps/ap_sheriff_int/props_sheriff.txd");
+AddSimpleModel(-1, 14843, -2021, "maps/ap_sheriff_int/windows_sheriff.dff", "maps/ap_sheriff_int/interior_sheriff.txd");
+
+// BAR EXT
+AddSimpleModel(-1, 3673, -3000, "maps/angel_pine/club_bar.dff", "maps/angel_pine/cs_town.txd");
+AddSimpleModel(-1, 9319, -3001, "maps/angel_pine/cs_landbit_58.dff", "maps/angel_pine/cs_town.txd");
+AddSimpleModel(-1, 18204, -3002, "maps/angel_pine/w_townwires_01.dff", "maps/angel_pine/cs_town.txd");
+// BAR INT
+AddSimpleModel(-1, 18204, -3003, "maps/angel_pine/int_club.dff", "maps/angel_pine/int_club.txd");
+
+// CASINO EXT
+AddSimpleModel(-1, 18204, -3004, "maps/angel_pine/casino_ext.dff", "maps/angel_pine/casino_ext.txd");
+
+// VAMPIRA CLUB (XXX)
+AddSimpleModel(-1, 18266, -3005, "maps/angel_pine/xxx_club.dff", "maps/angel_pine/xxx_club.txd");
+
+// TALLER WORKSHOP
+AddSimpleModel(-1, 19854, -3006, "maps/angel_pine/taller_workshop.dff", "maps/angel_pine/taller_workshop.txd");
+
+// TIENDA DE CAZA
+AddSimpleModel(-1, 19854, -3007, "maps/angel_pine/w_townwires_08.dff", "maps/angel_pine/sheriff_hq.txd");
+AddSimpleModel(-1, 11543, -2001, "maps/angel_pine/ext_caza_shop.dff", "maps/angel_pine/ext_caza_shop.txd");
+AddSimpleModel(-1, 19854, -3008, "maps/angel_pine/w_townwires_11.dff", "maps/angel_pine/sheriff_hq.txd");
+
+////// ANGEL PINE EXPANSION
+AddSimpleModel(-1, 18214, -3022, "maps/angel_pine/ap_exp_props.dff", "maps/angel_pine/ap_exp_props.txd");
+AddSimpleModel(-1, 19854, -3010, "maps/angel_pine/ap_exp_houses.dff", "maps/angel_pine/new_houses_ap.txd");
+AddSimpleModel(-1, 19854, -3012, "maps/angel_pine/ap_exp_business1.dff", "maps/angel_pine/ap_exp_business1.txd");
+AddSimpleModel(-1, 19854, -3013, "maps/angel_pine/ap_exp_business2.dff", "maps/angel_pine/ap_exp_business2.txd");
+AddSimpleModel(-1, 18337, -3014, "maps/angel_pine/cs_landbit_66.dff", "maps/angel_pine/ap_terrain_exp.txd");
+AddSimpleModel(-1, 18337, -3015, "maps/angel_pine/cs_landbit_65.dff", "maps/angel_pine/ap_terrain_exp.txd");
+
+// main terrain
+AddSimpleModel(-1, 18337, -3016, "maps/angel_pine/cs_landbit_57.dff", "maps/angel_pine/ap_terrain_exp.txd");
+//
+AddSimpleModel(-1, 18337, -3017, "maps/angel_pine/cs_landbit_56.dff", "maps/angel_pine/ap_terrain_exp.txd");
+AddSimpleModel(-1, 18337, -3018, "maps/angel_pine/cs_landbit_50c.dff", "maps/angel_pine/cs_town.txd");
+AddSimpleModel(-1, 18337, -3019, "maps/angel_pine/cs_landbit_48.dff", "maps/angel_pine/cs_mountain.txd");
+AddSimpleModel(-1, 19854, -3020, "maps/angel_pine/cuntsrod03.dff", "maps/angel_pine/ap_terrain_exp.txd");
+AddSimpleModel(-1, 19854, -3021, "maps/angel_pine/cuntsrod04.dff", "maps/angel_pine/ap_terrain_exp.txd");
+
+// SONS OF KAISER - Interior
+AddSimpleModel(-1, 14798, -3037, "maps/ap_biker_int/0x7F4DB67A.dff", "maps/ap_biker_int/0x88C01DC5.txd");
+AddSimpleModel(-1, 14798, -3038, "maps/ap_biker_int/0x5ADBE5A1.dff", "maps/ap_biker_int/0xAA4AC3BC.txd");
+AddSimpleModel(-1, 1502, -3039, "maps/ap_biker_int/0xE02B5E7E.dff", "maps/ap_biker_int/0xAA4AC3BC.txd");
+AddSimpleModel(-1, 1502, -3040, "maps/ap_biker_int/0xB37CE251.dff", "maps/ap_biker_int/0xAA4AC3BC.txd");
+AddSimpleModel(-1, 14798, -3041, "maps/ap_biker_int/0xB0F2516C.dff", "maps/ap_biker_int/0x88C01DC5.txd");
+AddSimpleModel(-1, 14798, -3042, "maps/ap_biker_int/0x1418DA00.dff", "maps/ap_biker_int/0x88C01DC5.txd");
+
+// ANGEL PINE DOCKSIDE
+AddSimpleModel(-1, 18335, -3046, "maps/angel_pine_dockside/cs_landbit_47.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+AddSimpleModel(-1, 18342, -3047, "maps/angel_pine_dockside/cs_landbit_55.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+AddSimpleModel(-1, 18350, -3048, "maps/angel_pine_dockside/cs_landbit_64.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+AddSimpleModel(-1, 5773, -3049, "maps/angel_pine_dockside/fish_store.dff", "maps/angel_pine_dockside/fish_store.txd");
+AddSimpleModel(-1, 3673, -3050, "maps/angel_pine_dockside/tower_props.dff", "maps/angel_pine_dockside/sea_tower.txd");
+AddSimpleModel(-1, 3673, -3051, "maps/angel_pine_dockside/light_house.dff", "maps/angel_pine_dockside/light_house.txd");
+AddSimpleModel(-1, 6189, -3052, "maps/angel_pine_dockside/docks_boats.dff", "maps/angel_pine_dockside/sea_tower.txd");
+AddSimpleModel(-1, 17887, -3053, "maps/angel_pine_dockside/dockside_props.dff", "maps/angel_pine_dockside/dockside_props.txd");
+AddSimpleModel(-1, 3279, -3054, "maps/angel_pine_dockside/city_side_builds.dff", "maps/angel_pine_dockside/city_side_builds.txd");
+
+AddSimpleModel(-1, 4293, -3055, "maps/angel_pine_dockside/sbcs_landbit_46.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+AddSimpleModel(-1, 4293, -3056, "maps/angel_pine_dockside/sbcs_landbit_54.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+AddSimpleModel(-1, 4293, -3057, "maps/angel_pine_dockside/sbcs_landbit_63.dff", "maps/angel_pine_dockside/cs_landbits.txd");
+
+// Angel Pine Hospital
+AddSimpleModel(-1, 5773, -3058, "maps/angel_pine_hospital/hospital_exterior.dff", "maps/angel_pine_hospital/hospital_exterior.txd");
+AddSimpleModel(-1, 18205, -3059, "maps/angel_pine_hospital/w_townwires_02.dff", "maps/angel_pine_hospital/wires_hospital.txd");
+AddSimpleModel(-1, 18353, -3060, "maps/angel_pine_hospital/cs_landbit_67.dff", "maps/angel_pine_hospital/hospital_bits.txd");
+AddSimpleModel(-1, 18484, -3061, "maps/angel_pine_hospital/cuntsrod13.dff", "maps/angel_pine_hospital/hospital_bits.txd");
+
+// HOSPITAL INTERIOR
+AddSimpleModel(-1, 18205, -3066, "maps/hospital_int/hospital_int.dff", "maps/hospital_int/hospital_int.txd");
+AddSimpleModel(-1, 18205, -3067, "maps/hospital_int/hospital_int_roof.dff", "maps/hospital_int/hospital_int.txd");
+AddSimpleModel(-1, 18205, -3068, "maps/hospital_int/hospital_int_props.dff", "maps/hospital_int/hospital_int_props.txd");
+AddSimpleModel(-1, 18205, -3069, "maps/hospital_int/patient_rms_props.dff", "maps/hospital_int/hospital_int_props.txd");
+AddSimpleModel(-1, 18205, -3070, "maps/hospital_int/patient_rms_props_2.dff", "maps/hospital_int/hospital_int_props.txd");
+
+// Gas Station Interior
+AddSimpleModel(-1, 14581, -5001, "maps/gas_station/gas_station_props.dff", "maps/gas_station/gas_station.txd");
+AddSimpleModel(-1, 1495, -5002, "maps/gas_station/gas_station_glass.dff", "maps/gas_station/gas_station.txd");
+AddSimpleModel(-1, 5409, -5003, "maps/gas_station/gas_station_int.dff", "maps/gas_station/gas_station.txd");
+
+// Gun Store Interior
+AddSimpleModel(-1, 5521, -5004, "maps/gun_store/gun_int.dff", "maps/gun_store/gun_int.txd");
+
+// Garage Interior
+AddSimpleModel(-1, 14672, -5005, "maps/garage/garage_int.dff", "maps/garage/garage_int.txd");
+
+// Countryside Objects
+AddSimpleModel(-1, 13367, -12102, "objects/country/water_pump.dff", "objects/country/water_pump.txd");
+AddSimpleModel(-1, 19475, -8106, "objects/country/whetstone_sign.dff", "objects/country/whetstone_sign.txd");
+AddSimpleModel(-1, 19475, -8105, "objects/country/car_parking.dff", "objects/country/car_parking.txd");
+AddSimpleModel(-1, 19475, -8104, "objects/country/fire_candle.dff", "objects/country/fire_candle.txd");
+AddSimpleModel(-1, 19475, -8103, "objects/country/treasure_chest.dff", "objects/country/treasure_chest.txd");
+AddSimpleModel(-1, 19475, -8102, "objects/country/wood_barrel.dff", "objects/country/wood_barrel.txd");
+AddSimpleModel(-1, 19475, -8101, "objects/country/stone_castle.dff", "objects/country/stone_castle.txd");
+AddSimpleModel(-1, 19475, -8100, "objects/country/candle.dff", "objects/country/candle.txd");
+AddSimpleModel(-1, 19379, -8059, "objects/country/rc_bridge.dff", "objects/country/rc_bridge.txd");
+AddSimpleModel(-1, 19379, -8060, "objects/country/rc_road.dff", "objects/country/rc_bridge.txd");
+AddSimpleModel(-1, 19379, -8061, "objects/country/rc_pier.dff", "objects/country/rc_bridge.txd");
+AddSimpleModel(-1, 1923, -5080, "objects/country/billboard.dff", "objects/country/billboard.txd");
+
+// Skins
+// Citizen
+AddCharModel(193, 20001, "skins/citizen/0x25903C9.dff", "skins/citizen/0x7BDF07BE.txd");
+AddCharModel(193, 20002, "skins/citizen/0xC4B72D5A.dff", "skins/citizen/0x6133991E.txd");
+AddCharModel(193, 20003, "skins/citizen/0x399A175A.dff", "skins/citizen/0x5C3C3A53.txd");
+AddCharModel(193, 20004, "skins/citizen/0xF49631F3.dff", "skins/citizen/0x8B1CE3C2.txd");
+AddCharModel(262, 20005, "skins/citizen/0xC9505429.dff", "skins/citizen/0xD7DAEDAC.txd");
+AddCharModel(18, 20006, "skins/citizen/0x1E86CA89.dff", "skins/citizen/0x95E8B3B8.txd");
+AddCharModel(21, 20007, "skins/citizen/0x4EC4DF8E.dff", "skins/citizen/0x6015438B.txd");
+AddCharModel(29, 20008, "skins/citizen/0x9EE084FB.dff", "skins/citizen/0x6E2C5C6.txd");
+AddCharModel(51, 20009, "skins/citizen/0x1DABF17.dff", "skins/citizen/0x94B34EAF.txd");
+AddCharModel(44, 20010, "skins/citizen/0xA72425D4.dff", "skins/citizen/0x19071925.txd");
+AddCharModel(44, 20011, "skins/citizen/0x6FB05EFE.dff", "skins/citizen/0x4E838DAD.txd");
+AddCharModel(47, 20012, "skins/citizen/0x15AE14B6.dff", "skins/citizen/0x20827FB1.txd");
+AddCharModel(191, 20013, "skins/citizen/0xFBCA2CB0.dff", "skins/citizen/0x15DC79A0.txd");
+AddCharModel(192, 20014, "skins/citizen/0xB99DF4DE.dff", "skins/citizen/0xCDCAD837.txd");
+AddCharModel(161, 20015, "skins/citizen/0x5A80A5AE.dff", "skins/citizen/0xEAAFF91B.txd");
+AddCharModel(160, 20016, "skins/citizen/0x1DEDCF88.dff", "skins/citizen/0xF7127FF6.txd");
+AddCharModel(158, 20017, "skins/citizen/0x21AD9EB4.dff", "skins/citizen/0x66F7DA48.txd");
+AddCharModel(154, 20018, "skins/citizen/0xEC2DF908.dff", "skins/citizen/0xA2C04D54.txd");
+AddCharModel(27, 20019, "skins/citizen/0xE9DE7834.dff", "skins/citizen/0x207C86FC.txd");
+AddCharModel(96, 20020, "skins/citizen/0x6873194A.dff", "skins/citizen/0xC9BEB696.txd");
+AddCharModel(127, 20021, "skins/citizen/0x5922D32D.dff", "skins/citizen/0x1EE09C13.txd");
+AddCharModel(125, 20022, "skins/citizen/0xA73A7203.dff", "skins/citizen/0x7748F04C.txd");
+AddCharModel(188, 20023, "skins/citizen/0x964FA0C4.dff", "skins/citizen/0x2647A9C8.txd");
+AddCharModel(188, 20024, "skins/citizen/0xDDD860CF.dff", "skins/citizen/0xEDB34719.txd");
+AddCharModel(188, 20025, "skins/citizen/0xA260BA81.dff", "skins/citizen/0x601037FD.txd");
+AddCharModel(188, 20026, "skins/citizen/0x735C6FFF.dff", "skins/citizen/0xCEA8059F.txd");
+AddCharModel(188, 20027, "skins/citizen/0x4CAF39ED.dff", "skins/citizen/0x82872164.txd");
+AddCharModel(188, 20028, "skins/citizen/0xD40D6B8F.dff", "skins/citizen/0xEECE4613.txd");
+AddCharModel(93, 20029, "skins/citizen/0xE9487CA.dff", "skins/citizen/0x42994C82.txd");
+AddCharModel(72, 20030, "skins/citizen/0xFB930DB7.dff", "skins/citizen/0xD98DBE20.txd");
+AddCharModel(37, 20031, "skins/citizen/0x580D3D33.dff", "skins/citizen/0x88B36346.txd");
+AddCharModel(295, 20032, "skins/citizen/0xC1CADE92.dff", "skins/citizen/0xF631CD40.txd");
+AddCharModel(154, 20033, "skins/citizen/0x789BEB8.dff", "skins/citizen/0xF263B9D0.txd");
+AddCharModel(250, 20034, "skins/citizen/0xF39007B8.dff", "skins/citizen/0x82A2ABDD.txd");
+AddCharModel(23, 20035, "skins/citizen/0x71E6FCE.dff", "skins/citizen/0x4CAE2ABE.txd");
+AddCharModel(154, 20036, "skins/citizen/0x4CC2438D.dff", "skins/citizen/0x6DBE5183.txd");
+AddCharModel(217, 20037, "skins/citizen/0x4B0C7BA7.dff", "skins/citizen/0x3BFC268D.txd");
+AddCharModel(240, 20038, "skins/citizen/0x8B1DBC1E.dff", "skins/citizen/0x5F97DDC5.txd");
+AddCharModel(193, 20039, "skins/citizen/0x5A1055E8.dff", "skins/citizen/0xF704BA21.txd");
+AddCharModel(93, 20040, "skins/citizen/0x9D4E3045.dff", "skins/citizen/0xC237CB46.txd");
+AddCharModel(101, 20041, "skins/citizen/0x80B9628.dff", "skins/citizen/0x64400C3A.txd");
+AddCharModel(93, 20042, "skins/citizen/0x63195E7B.dff", "skins/citizen/0xF7C74E74.txd");
+AddCharModel(100, 20043, "skins/citizen/0x8D01BC0F.dff", "skins/citizen/0x993B3BB.txd");
+AddCharModel(299, 20044, "skins/citizen/0x3574D4AE.dff", "skins/citizen/0xB5B19D32.txd");
+AddCharModel(299, 20045, "skins/citizen/0x51915A79.dff", "skins/citizen/0x6E29D8D6.txd");
+AddCharModel(93, 20046, "skins/citizen/0x9D4E3045.dff", "skins/citizen/0x64B11B3A.txd");
+AddCharModel(193, 20047, "skins/citizen/0xC4B72D5A.dff", "skins/citizen/0xC9E746CB.txd");
+AddCharModel(93, 20048, "skins/citizen/0xFEBB4F0A.dff", "skins/citizen/0x62D01AC7.txd");
+AddCharModel(240, 20049, "skins/citizen/0xA034C78D.dff", "skins/citizen/0x46CFED7C.txd");
+AddCharModel(188, 20050, "skins/citizen/0x6CFD378C.dff", "skins/citizen/0xD2CB49E1.txd");
+AddCharModel(91, 20051, "skins/citizen/0xE9EF4FA4.dff", "skins/citizen/0xBEA0763A.txd");
+AddCharModel(46, 20052, "skins/citizen/0xFB7E01B5.dff", "skins/citizen/0xB5746923.txd");
+AddCharModel(72, 20053, "skins/citizen/0x5DAA8A2E.dff", "skins/citizen/0x8A21D02B.txd");
+AddCharModel(154, 20054, "skins/citizen/0xA522BC19.dff", "skins/citizen/0xEEDB2E42.txd");
+AddCharModel(225, 20055, "skins/citizen/0x3F460A1E.dff", "skins/citizen/0xB7E017FA.txd");
+AddCharModel(60, 20056, "skins/citizen/0xD40D6B8F.dff", "skins/citizen/0xA6E53309.txd");
+AddCharModel(191, 20057, "skins/citizen/0x3894FCA8.dff", "skins/citizen/0x5E80CB4.txd");
+AddCharModel(107, 20058, "skins/citizen/0x29CB834E.dff", "skins/citizen/0xCD7DFCF4.txd");
+AddCharModel(93, 20059, "skins/citizen/0x2089DA3A.dff", "skins/citizen/0xF53C6A31.txd");
+AddCharModel(93, 20060, "skins/citizen/0x7CE571DD.dff", "skins/citizen/0x7F625432.txd");
+AddCharModel(93, 20061, "skins/citizen/0xD9F3D61E.dff", "skins/citizen/0x3D067DCD.txd");
+AddCharModel(55, 20062, "skins/citizen/0x16E3BAA4.dff", "skins/citizen/0xD5556341.txd");
+AddCharModel(93, 20063, "skins/citizen/0xD03A7E6A.dff", "skins/citizen/0x1751382B.txd");
+AddCharModel(180, 20064, "skins/citizen/0x5319832A.dff", "skins/citizen/0xAAEEBD95.txd");
+AddCharModel(180, 20065, "skins/citizen/0x9047C905.dff", "skins/citizen/0xAAEEBD95.txd");
+AddCharModel(180, 20066, "skins/citizen/0x8856E1AB.dff", "skins/citizen/0xAAEEBD95.txd");
+AddCharModel(180, 20067, "skins/citizen/0xE8C27AB7.dff", "skins/citizen/0xAAEEBD95.txd");
+AddCharModel(217, 20068, "skins/citizen/0x2B6D90FA.dff", "skins/citizen/0xACC40A83.txd");
+AddCharModel(26, 20069, "skins/citizen/0xE3CCF1E2.dff", "skins/citizen/0x533B8222.txd");
+AddCharModel(60, 20070, "skins/citizen/0xF4AD06DF.dff", "skins/citizen/0x13CBD4CC.txd");
+AddCharModel(29, 20071, "skins/citizen/0x1DABF17.dff", "skins/citizen/0xD7FE784D.txd");
+AddCharModel(147, 20072, "skins/citizen/0x73BED762.dff", "skins/citizen/0x8CF08EE4.txd");
+AddCharModel(93, 20073, "skins/citizen/0x42083F98.dff", "skins/citizen/0x5D7E436E.txd");
+AddCharModel(216, 20074, "skins/citizen/0x8A513006.dff", "skins/citizen/0x55FFE8D7.txd");
+AddCharModel(190, 20075, "skins/citizen/0x500368AD.dff", "skins/citizen/0x72D8677A.txd");
+AddCharModel(76, 20076, "skins/citizen/0x14BFC5D5.dff", "skins/citizen/0x2607BD19.txd");
+AddCharModel(85, 20077, "skins/citizen/0x7DA663B6.dff", "skins/citizen/0x3DC90A3E.txd");
+
+// Sheriff
+AddCharModel(280, 20200, "skins/sheriff/0xBCF8B47.dff", "skins/sheriff/0xF0FA44BE.txd");
+AddCharModel(280, 20201, "skins/sheriff/0x98E9C791.dff", "skins/sheriff/0xF92587AD.txd");
+AddCharModel(280, 20202, "skins/sheriff/0x17BBD4BF.dff", "skins/sheriff/0xC727C72B.txd");
+AddCharModel(280, 20203, "skins/sheriff/0x9F317D8.dff", "skins/sheriff/0x473E5B73.txd");
+AddCharModel(280, 20204, "skins/sheriff/0xB1591FAE.dff", "skins/sheriff/0x5BFD4DE9.txd");
+AddCharModel(280, 20205, "skins/sheriff/0x74076FA1.dff", "skins/sheriff/0x4BED46B9.txd");
+AddCharModel(280, 20206, "skins/sheriff/0x34F22F24.dff", "skins/sheriff/0xA81C92FA.txd");
+AddCharModel(280, 20207, "skins/sheriff/0xBF1F140B.dff", "skins/sheriff/0x12B16BB0.txd");
+AddCharModel(280, 20208, "skins/sheriff/0x8E63561A.dff", "skins/sheriff/0xAC5C197.txd");
+AddCharModel(280, 20209, "skins/sheriff/0x458A575A.dff", "skins/sheriff/0xC888249A.txd");
+AddCharModel(280, 20210, "skins/sheriff/0xCAFC7105.dff", "skins/sheriff/0x2D7267CA.txd");
+AddCharModel(280, 20211, "skins/sheriff/0x1625D2D1.dff", "skins/sheriff/0xF6F83E72.txd");
+AddCharModel(280, 20212, "skins/sheriff/0x859EE8C6.dff", "skins/sheriff/0xF5F7061B.txd");
+AddCharModel(280, 20213, "skins/sheriff/0xDE458D6B.dff", "skins/sheriff/0xC4136E5D.txd");
+AddCharModel(280, 20214, "skins/sheriff/0x68E8ADD4.dff", "skins/sheriff/0x20FD73FE.txd");
+AddCharModel(280, 20215, "skins/sheriff/0xE71E1321.dff", "skins/sheriff/0xA2468DEF.txd");
+AddCharModel(280, 20216, "skins/sheriff/0x3D3421EE.dff", "skins/sheriff/0x228710B9.txd");
+AddCharModel(280, 20217, "skins/sheriff/0x42004CDD.dff", "skins/sheriff/0xAC274F4B.txd");
+AddCharModel(280, 20218, "skins/sheriff/0x246FEA59.dff", "skins/sheriff/0x957E6B26.txd");
+AddCharModel(280, 20219, "skins/sheriff/0x50ADFEAC.dff", "skins/sheriff/0x175EC9C2.txd");
+AddCharModel(280, 20220, "skins/sheriff/0xA87FE438.dff", "skins/sheriff/0x4B047FA0.txd");
+AddCharModel(280, 20221, "skins/sheriff/0x3B1F3567.dff", "skins/sheriff/0xB981344D.txd");
+AddCharModel(280, 20222, "skins/sheriff/0x941AF21D.dff", "skins/sheriff/0xEC6975F7.txd");
+AddCharModel(280, 20223, "skins/sheriff/0xE95AEE04.dff", "skins/sheriff/0x1258EC1.txd");
+AddCharModel(280, 20224, "skins/sheriff/0x5002E85.dff", "skins/sheriff/0xCC19BD03.txd");
+AddCharModel(280, 20225, "skins/sheriff/0x5B5B7116.dff", "skins/sheriff/0x8D7FAFE6.txd");
+AddCharModel(280, 20226, "skins/sheriff/0x1C132ADE.dff", "skins/sheriff/0xA3CC1570.txd");
+AddCharModel(280, 20227, "skins/sheriff/0x7134408F.dff", "skins/sheriff/0xE6D3407A.txd");
+AddCharModel(280, 20228, "skins/sheriff/0x315E90D8.dff", "skins/sheriff/0xF5EE797C.txd");
+AddCharModel(280, 20229, "skins/sheriff/0xDC8DC68E.dff", "skins/sheriff/0xC7A22614.txd");
+AddCharModel(280, 20230, "skins/sheriff/0xB279D534.dff", "skins/sheriff/0x1BFDE39D.txd");
+AddCharModel(280, 20231, "skins/sheriff/0xE60844EA.dff", "skins/sheriff/0x5DFFEA5E.txd");
+AddCharModel(280, 20232, "skins/sheriff/0x7D40E489.dff", "skins/sheriff/0x2E7A5425.txd");
+AddCharModel(280, 20233, "skins/sheriff/0x64E4068.dff", "skins/sheriff/0x4370588E.txd");
+AddCharModel(280, 20234, "skins/sheriff/0x140B06EB.dff", "skins/sheriff/0xC296258A.txd");
+AddCharModel(285, 20235, "skins/sheriff/0x5D038EA4.dff", "skins/sheriff/0xE0A534F7.txd");
+AddCharModel(285, 20236, "skins/sheriff/0x50B6398A.dff", "skins/sheriff/0x37A5B1A.txd");
+AddCharModel(285, 20237, "skins/sheriff/0xC4B9D0AF.dff", "skins/sheriff/0x2AD7B826.txd");
+AddCharModel(285, 20238, "skins/sheriff/0xB5BD89A0.dff", "skins/sheriff/0x259D0CC8.txd");
+AddCharModel(285, 20239, "skins/sheriff/0x47AEF503.dff", "skins/sheriff/0x11C6133C.txd");
+AddCharModel(280, 20240, "skins/sheriff/0xEC793D3C.dff", "skins/sheriff/0x709E3434.txd");
+AddCharModel(280, 20241, "skins/sheriff/0x75291EDD.dff", "skins/sheriff/0xAF15A64.txd");
+AddCharModel(280, 20242, "skins/sheriff/0xBB07EB12.dff", "skins/sheriff/0xBD2248F8.txd");
+AddCharModel(280, 20243, "skins/sheriff/0x25F9163D.dff", "skins/sheriff/0xE77EF2C7.txd");
+AddCharModel(280, 20244, "skins/sheriff/0x65CA86A9.dff", "skins/sheriff/0x719DDB1C.txd");
+AddCharModel(280, 20245, "skins/sheriff/0xC476190C.dff", "skins/sheriff/0x22B4613A.txd");
+AddCharModel(280, 20246, "skins/sheriff/0x18DBDF68.dff", "skins/sheriff/0xCBC5850D.txd");
+AddCharModel(280, 20247, "skins/sheriff/0xDDB72233.dff", "skins/sheriff/0xE0DB5AE4.txd");
+AddCharModel(280, 20248, "skins/sheriff/0x29DFBFD4.dff", "skins/sheriff/0x64E5D481.txd");
+AddCharModel(280, 20249, "skins/sheriff/0xE7FFB5EB.dff", "skins/sheriff/0x771B20A4.txd");
+AddCharModel(280, 20250, "skins/sheriff/0x5BD6475D.dff", "skins/sheriff/0xCB53724F.txd");
+AddCharModel(280, 20251, "skins/sheriff/0x76C1D100.dff", "skins/sheriff/0x6929231A.txd");
+AddCharModel(280, 20252, "skins/sheriff/0x48826279.dff", "skins/sheriff/0xB2F37364.txd");
+AddCharModel(280, 20253, "skins/sheriff/0x646F6E0B.dff", "skins/sheriff/0xC210C59E.txd");
+AddCharModel(280, 20254, "skins/sheriff/0x2DE1291D.dff", "skins/sheriff/0xA0FC129E.txd");
+AddCharModel(280, 20255, "skins/sheriff/0x254D624.dff", "skins/sheriff/0x7544ED5A.txd");
+AddCharModel(280, 20256, "skins/sheriff/0xE2841726.dff", "skins/sheriff/0x54629020.txd");
+AddCharModel(280, 20257, "skins/sheriff/0x82348AFF.dff", "skins/sheriff/0x73DD491B.txd");
+AddCharModel(280, 20258, "skins/sheriff/0xB93E3A80.dff", "skins/sheriff/0xF0B46956.txd");
+AddCharModel(280, 20259, "skins/sheriff/0x794FFC8F.dff", "skins/sheriff/0x7A4CCC80.txd");
+AddCharModel(280, 20260, "skins/sheriff/0xEB92F26D.dff", "skins/sheriff/0x5D0CF8C3.txd");
+AddCharModel(280, 20261, "skins/sheriff/0x658BEA14.dff", "skins/sheriff/0x9B51EA03.txd");
+AddCharModel(280, 20262, "skins/sheriff/0x3E890673.dff", "skins/sheriff/0x43C16918.txd");
+AddCharModel(280, 20263, "skins/sheriff/0x9343A887.dff", "skins/sheriff/0x51373666.txd");
+AddCharModel(280, 20264, "skins/sheriff/0x569CEC27.dff", "skins/sheriff/0x73BE76A0.txd");
+AddCharModel(280, 20265, "skins/sheriff/0x5E0CC22.dff", "skins/sheriff/0x9B284F16.txd");
+AddCharModel(280, 20266, "skins/sheriff/0xB361AD09.dff", "skins/sheriff/0x4CF7BC98.txd");
+AddCharModel(280, 20267, "skins/sheriff/0x3AB311FD.dff", "skins/sheriff/0x9CCCEBFC.txd");
+AddCharModel(280, 20268, "skins/sheriff/0xB4CB616B.dff", "skins/sheriff/0xAA8F3531.txd");
+AddCharModel(280, 20269, "skins/sheriff/0x47AE1DD8.dff", "skins/sheriff/0xCD0519A2.txd");
+AddCharModel(280, 20270, "skins/sheriff/0x8A78F62F.dff", "skins/sheriff/0x6F843904.txd");
+AddCharModel(280, 20271, "skins/sheriff/0x972CE1C4.dff", "skins/sheriff/0x8B2DBA3E.txd");
+AddCharModel(280, 20272, "skins/sheriff/0x631B820F.dff", "skins/sheriff/0xA6A92954.txd");
+AddCharModel(280, 20273, "skins/sheriff/0xBFD95D33.dff", "skins/sheriff/0xE1D9106C.txd");
+AddCharModel(280, 20274, "skins/sheriff/0x2585E898.dff", "skins/sheriff/0xE1305B2.txd");
+AddCharModel(280, 20275, "skins/sheriff/0x7331EF4D.dff", "skins/sheriff/0x89E4E43B.txd");
+AddCharModel(280, 20276, "skins/sheriff/0x6AE51DB1.dff", "skins/sheriff/0x949C8CF3.txd");
+AddCharModel(280, 20277, "skins/sheriff/0xC7902CAC.dff", "skins/sheriff/0x8323CECD.txd");
+AddCharModel(280, 20278, "skins/sheriff/0x61406A82.dff", "skins/sheriff/0xED8E3C0.txd");
+AddCharModel(280, 20279, "skins/sheriff/0xF41E1769.dff", "skins/sheriff/0x92CFE806.txd");
+AddCharModel(280, 20280, "skins/sheriff/0x91D9C16B.dff", "skins/sheriff/0x7B2DC047.txd");
+AddCharModel(280, 20281, "skins/sheriff/0x6786C7D.dff", "skins/sheriff/0x4C10A42A.txd");
+AddCharModel(280, 20282, "skins/sheriff/0x5C654C61.dff", "skins/sheriff/0x220E4573.txd");
+AddCharModel(280, 20283, "skins/sheriff/0xF1238E0A.dff", "skins/sheriff/0xAF94D6CC.txd");
+AddCharModel(280, 20284, "skins/sheriff/0x54EA6515.dff", "skins/sheriff/0x7C0796A4.txd");
+AddCharModel(280, 20285, "skins/sheriff/0xEB573742.dff", "skins/sheriff/0xCD8ADBEE.txd");
+AddCharModel(280, 20286, "skins/sheriff/0xA1CB4996.dff", "skins/sheriff/0xA8DDF4D.txd");
+AddCharModel(280, 20287, "skins/sheriff/0x564C28EE.dff", "skins/sheriff/0x7848A877.txd");
+AddCharModel(280, 20288, "skins/sheriff/0xBD527BC3.dff", "skins/sheriff/0x5CB1BF6.txd");
+AddCharModel(280, 20289, "skins/sheriff/0x85B289E1.dff", "skins/sheriff/0xFE1789C5.txd");
+AddCharModel(280, 20290, "skins/sheriff/0x867E0376.dff", "skins/sheriff/0x8C85B4B2.txd");
+AddCharModel(280, 20291, "skins/sheriff/0xF61F9448.dff", "skins/sheriff/0xE1D0BA2F.txd");
+AddCharModel(280, 20292, "skins/sheriff/0x3E77CF9D.dff", "skins/sheriff/0xA34A73A6.txd");
+AddCharModel(280, 20293, "skins/sheriff/0x496F5C06.dff", "skins/sheriff/0x79E15DA5.txd");
+AddCharModel(280, 20294, "skins/sheriff/0x74807454.dff", "skins/sheriff/0x49F56195.txd");
+AddCharModel(285, 20295, "skins/sheriff/0xFAAD975.dff", "skins/sheriff/0x64F18852.txd");
+AddCharModel(285, 20296, "skins/sheriff/0xB2830593.dff", "skins/sheriff/0xCF620F5.txd");
+AddCharModel(285, 20297, "skins/sheriff/0x37FE6C8F.dff", "skins/sheriff/0xB8EA5743.txd");
+AddCharModel(285, 20298, "skins/sheriff/0x4BF77AA1.dff", "skins/sheriff/0x9033EFD9.txd");
+AddCharModel(285, 20299, "skins/sheriff/0x71374278.dff", "skins/sheriff/0xBD9A6CB6.txd");
+AddCharModel(306, 20300, "skins/sheriff/0x58B1BBA5.dff", "skins/sheriff/0x54F25B9F.txd");
+AddCharModel(306, 20301, "skins/sheriff/0x331AF75B.dff", "skins/sheriff/0xAA746C26.txd");
+AddCharModel(306, 20302, "skins/sheriff/0xD8B6D536.dff", "skins/sheriff/0x8E2365FD.txd");
+AddCharModel(306, 20303, "skins/sheriff/0xF1D6F6EB.dff", "skins/sheriff/0xB820BAB8.txd");
+AddCharModel(306, 20304, "skins/sheriff/0xEF28AA44.dff", "skins/sheriff/0x91E2C64D.txd");
+AddCharModel(306, 20305, "skins/sheriff/0x2DC8BB1B.dff", "skins/sheriff/0x27E64B26.txd");
+AddCharModel(306, 20306, "skins/sheriff/0x9553EAAD.dff", "skins/sheriff/0xCA31D5E5.txd");
+AddCharModel(306, 20307, "skins/sheriff/0x24E4F9B5.dff", "skins/sheriff/0xA7700DBC.txd");
+AddCharModel(306, 20308, "skins/sheriff/0x8B5B18E0.dff", "skins/sheriff/0x1E114C15.txd");
+AddCharModel(306, 20309, "skins/sheriff/0xDF3C5A80.dff", "skins/sheriff/0xA2F43596.txd");
+AddCharModel(306, 20310, "skins/sheriff/0xD47323F9.dff", "skins/sheriff/0xFF85D946.txd");
+AddCharModel(306, 20311, "skins/sheriff/0xE8DC26EA.dff", "skins/sheriff/0xADA57C12.txd");
+AddCharModel(306, 20312, "skins/sheriff/0x81C1513B.dff", "skins/sheriff/0x62C7826B.txd");
+AddCharModel(306, 20313, "skins/sheriff/0x36A34DF5.dff", "skins/sheriff/0x9BD10FE9.txd");
+AddCharModel(306, 20314, "skins/sheriff/0x5AEA73B4.dff", "skins/sheriff/0xFAA07E27.txd");
+AddCharModel(306, 20315, "skins/sheriff/0x5064AD65.dff", "skins/sheriff/0x8CDEDB9F.txd");
+AddCharModel(306, 20316, "skins/sheriff/0xD963E5D.dff", "skins/sheriff/0x5D6CF938.txd");
+AddCharModel(306, 20317, "skins/sheriff/0xEBEF3180.dff", "skins/sheriff/0xE8839206.txd");
+AddCharModel(306, 20318, "skins/sheriff/0xBA6D25CD.dff", "skins/sheriff/0x48F24542.txd");
+AddCharModel(306, 20319, "skins/sheriff/0x23A663E.dff", "skins/sheriff/0xA0B31BF2.txd");
+AddCharModel(306, 20320, "skins/sheriff/0x6E97C58C.dff", "skins/sheriff/0x63F7B0C5.txd");
+AddCharModel(306, 20321, "skins/sheriff/0x26E4C0C4.dff", "skins/sheriff/0xC7019037.txd");
+AddCharModel(306, 20322, "skins/sheriff/0xAE07B788.dff", "skins/sheriff/0x934E2953.txd");
+
+// Medic
+AddCharModel(276, 20400, "skins/medic/0xDB6CB3CD.dff", "skins/medic/0x2AE49E71.txd");
+AddCharModel(276, 20401, "skins/medic/0x73B40C7F.dff", "skins/medic/0x69E3FE1D.txd");
+AddCharModel(276, 20402, "skins/medic/0xE17982F.dff", "skins/medic/0x521179E6.txd");
+AddCharModel(308, 20403, "skins/medic/0xD1FCF787.dff", "skins/medic/0xD20102A3.txd");
+AddCharModel(308, 20404, "skins/medic/0xDA394623.dff", "skins/medic/0x43156DC6.txd");
+AddCharModel(274, 20405, "skins/medic/0x31DEDEEA.dff", "skins/medic/0x8C7CD08D.txd");
+AddCharModel(308, 20406, "skins/medic/0xA4F2794C.dff", "skins/medic/0x3FA00BEF.txd");
+AddCharModel(70, 20407, "skins/medic/0x3B300519.dff", "skins/medic/0x702ACEE.txd");
+AddCharModel(70, 20408, "skins/medic/0x3587AD9A.dff", "skins/medic/0x9EA91832.txd");
+AddCharModel(70, 20409, "skins/medic/0x5A99D47.dff", "skins/medic/0x3A90D64.txd");
+AddCharModel(308, 20410, "skins/medic/0xE57759F9.dff", "skins/medic/0xE4769BEE.txd");
+AddCharModel(308, 20411, "skins/medic/0xB73F858A.dff", "skins/medic/0xBFEBDAEE.txd");
+AddCharModel(276, 20412, "skins/medic/0x987C2131.dff", "skins/medic/0x8D1B6652.txd");
+AddCharModel(276, 20413, "skins/medic/0xDB6CB3CD.dff", "skins/medic/0xA22D86D3.txd");
+AddCharModel(276, 20414, "skins/medic/0x33DBBDCD.dff", "skins/medic/0xCCD0F50C.txd");
+AddCharModel(276, 20415, "skins/medic/0x8051C3DB.dff", "skins/medic/0x24038F55.txd");
+AddCharModel(308, 20416, "skins/medic/0x5C3E4E74.dff", "skins/medic/0x9A34F9E0.txd");
+AddCharModel(275, 20417, "skins/medic/0x1FC1E022.dff", "skins/medic/0x1E51210F.txd");
+AddCharModel(275, 20418, "skins/medic/0x57D7FB96.dff", "skins/medic/0x2F321BAA.txd");
+AddCharModel(275, 20419, "skins/medic/0x9C22C3A8.dff", "skins/medic/0x286C7C52.txd");
+AddCharModel(308, 20420, "skins/medic/0x6F4B39C4.dff", "skins/medic/0xD1932348.txd");
+AddCharModel(274, 20421, "skins/medic/0x73B40C7F.dff", "skins/medic/0x91A0DDC3.txd");
+AddCharModel(274, 20422, "skins/medic/0xEA6B0944.dff", "skins/medic/0x34E54118.txd");
+AddCharModel(274, 20423, "skins/medic/0xE17982F.dff", "skins/medic/0x107498A.txd");
+AddCharModel(308, 20424, "skins/medic/0xBD765961.dff", "skins/medic/0xEDB6142F.txd");
+AddCharModel(276, 20425, "skins/medic/0x854902FC.dff", "skins/medic/0xF38B7402.txd");
+AddCharModel(276, 20426, "skins/medic/0xB675AC68.dff", "skins/medic/0xF5384604.txd");
+AddCharModel(308, 20427, "skins/medic/0x562857FE.dff", "skins/medic/0x845D2C2E.txd");
+AddCharModel(277, 20428, "skins/medic/0x45E169FA.dff", "skins/medic/0xF7485312.txd");
+AddCharModel(277, 20429, "skins/medic/0xC22A7B10.dff", "skins/medic/0xAA89787E.txd");
+AddCharModel(277, 20430, "skins/medic/0xA13B5B7C.dff", "skins/medic/0x174DD037.txd");
+AddCharModel(277, 20431, "skins/medic/0xF29DCE7F.dff", "skins/medic/0xBE550DB0.txd");
+AddCharModel(277, 20432, "skins/medic/0x35AF93BC.dff", "skins/medic/0xF770245B.txd");
+AddCharModel(277, 20433, "skins/medic/0x2A93D4B9.dff", "skins/medic/0xDACEBEE7.txd");
+AddCharModel(277, 20434, "skins/medic/0x4A4D940E.dff", "skins/medic/0xC5847CAA.txd");
+AddCharModel(277, 20435, "skins/medic/0x2E698650.dff", "skins/medic/0x58B3A440.txd");
+AddCharModel(277, 20436, "skins/medic/0xC9AA78CA.dff", "skins/medic/0x39A7B115.txd");
+AddCharModel(277, 20437, "skins/medic/0x5D871546.dff", "skins/medic/0x24169B1F.txd");
+AddCharModel(277, 20438, "skins/medic/0x6E59974.dff", "skins/medic/0xB4F2A9B6.txd");
+AddCharModel(277, 20439, "skins/medic/0x9F296418.dff", "skins/medic/0x6BB242A5.txd");
+AddCharModel(277, 20440, "skins/medic/0x4A43C640.dff", "skins/medic/0xCB86347E.txd");
+AddCharModel(277, 20441, "skins/medic/0x11D75493.dff", "skins/medic/0xD8C732D.txd");
+AddCharModel(279, 20442, "skins/medic/0x360AC947.dff", "skins/medic/0x807055C2.txd");
+AddCharModel(279, 20443, "skins/medic/0xDE8AAC81.dff", "skins/medic/0xD204FFDE.txd");
+AddCharModel(279, 20444, "skins/medic/0x68E4AD16.dff", "skins/medic/0x912FCF70.txd");
+AddCharModel(279, 20445, "skins/medic/0x50AA0B1.dff", "skins/medic/0x34500046.txd");
+AddCharModel(278, 20446, "skins/medic/0x26E1FFC9.dff", "skins/medic/0x8C249B40.txd");
+AddCharModel(278, 20447, "skins/medic/0x3B18C56.dff", "skins/medic/0x259D45BB.txd");
+AddCharModel(278, 20448, "skins/medic/0x835B985C.dff", "skins/medic/0xCD10BDAC.txd");
+AddCharModel(278, 20449, "skins/medic/0x827947FF.dff", "skins/medic/0x686F729A.txd");
+AddCharModel(277, 20450, "skins/medic/0xD18C576C.dff", "skins/medic/0xD495A6CD.txd");
+AddCharModel(277, 20451, "skins/medic/0xC364D76.dff", "skins/medic/0xFAF63D80.txd");
+AddCharModel(277, 20452, "skins/medic/0x13F810FE.dff", "skins/medic/0x9F5C2E2B.txd");
+AddCharModel(277, 20453, "skins/medic/0x7F636EA6.dff", "skins/medic/0xA586BD62.txd");
+AddCharModel(276, 20454, "skins/medic/0x37F0813B.dff", "skins/medic/0x9F5431F4.txd");
+AddCharModel(274, 20455, "skins/medic/0x89884B43.dff", "skins/medic/0x96B66EC4.txd");
