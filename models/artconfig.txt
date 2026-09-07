@@ -420,6 +420,5 @@ AddCharModel(276, 20454, "skins/medic/0x37F0813B.dff", "skins/medic/0x9F5431F4.t
 AddCharModel(274, 20455, "skins/medic/0x89884B43.dff", "skins/medic/0x96B66EC4.txd");
 
 // Private Order
-AddCharModel(2, 25000, "skins/private/ByCruz.dff", "skins/private/ByCruz.txd");
 AddCharModel(85, 25001, "skins/private/Nyotengu_Mand.dff", "skins/private/Nyotengu_Mand.txd");
 AddCharModel(112, 25002, "skins/private/czokleet.dff", "skins/private/czokleet.txd");
