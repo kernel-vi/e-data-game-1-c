@@ -5,6 +5,7 @@ AddSimpleModel(-1, 19379, -9002, "textdraws/model.dff", "textdraws/vehicle_state
 AddSimpleModel(-1, 19379, -9003, "textdraws/model.dff", "textdraws/inventory.txd");
 AddSimpleModel(-1, 19379, -9004, "textdraws/model.dff", "textdraws/idcard.txd");
 AddSimpleModel(-1, 19379, -9005, "textdraws/model.dff", "textdraws/fishing.txd");
+AddSimpleModel(-1, 19379, -9006, "textdraws/model.dff", "textdraws/license.txd");
 
 // Objects
 AddSimpleModel(-1, 19162, -1050, "objects/lssd/hat.dff", "objects/lssd/hat.txd");
