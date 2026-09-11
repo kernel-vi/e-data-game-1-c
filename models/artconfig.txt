@@ -419,3 +419,7 @@ AddCharModel(277, 20452, "skins/medic/0x13F810FE.dff", "skins/medic/0x9F5C2E2B.t
 AddCharModel(277, 20453, "skins/medic/0x7F636EA6.dff", "skins/medic/0xA586BD62.txd");
 AddCharModel(276, 20454, "skins/medic/0x37F0813B.dff", "skins/medic/0x9F5431F4.txd");
 AddCharModel(274, 20455, "skins/medic/0x89884B43.dff", "skins/medic/0x96B66EC4.txd");
+
+// Private Order
+AddCharModel(85, 25001, "skins/private/Nyotengu_Mand.dff", "skins/private/Nyotengu_Mand.txd");
+AddCharModel(112, 25002, "skins/private/czokleet.dff", "skins/private/czokleet.txd");
